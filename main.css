@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  font-family: 'Lora', sans-serif;
+}
+
+article {
+  margin-left: 10%;
+  width: 30%;
+  margin-right: 10%;
+  font-family: 'Lora', sans-serif;
+}
+
+img{
+  width: 70%;
+}
+
+h1 {
+  font-size: 35px;
+  color: black;
+}
+
+.story_image {
+  width: 70%;
+}
+
+footer {
+  padding-left: 120px;
+  margin-top: 30px;
+  font-family: 'Lora', sans-serif;
+}
+
+a {
+  color: steelblue;
+}
+
+a:hover {
+  color: #33BAFF;
+  text-decoration-color: #33BAFF;
+}
